@@ -15,7 +15,7 @@
     "puppeteer": "^10.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sass": "^1.35.2"
+    "sass": "^1.77.3"
   },
   "devDependencies": {
     "@types/json2csv": "^5.0.3",
